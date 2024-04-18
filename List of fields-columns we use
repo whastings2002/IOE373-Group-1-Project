@@ -2,27 +2,23 @@
 
 id,
 
-name,
 created_by_user_id,
 material_type_id,
 material_type,
 material_type_concatenated,
 material_state_id,
 material_state,
+surface_type,
+transparency_type,
 
 rgb_r,
 rgb_g,
-rgb_b,
+Rgb_b,
 
-surface_type,
-
-transparency_type,
-
-from_orton_cone	to_orton_cone,
-is_analysis,
-is_primitive,
-is_theoretical,
-is_private,
+h, 
+s, 
+v, 
+color,
 
 SiO2_percent,
 Al2O3_percent,
